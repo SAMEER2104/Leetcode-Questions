@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 ## Tree
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

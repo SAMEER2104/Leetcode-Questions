@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |

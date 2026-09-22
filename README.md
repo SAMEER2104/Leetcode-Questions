@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

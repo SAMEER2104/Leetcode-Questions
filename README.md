@@ -99,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [1845-seat-reservation-manager](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1845-seat-reservation-manager) |
 ## Design
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [1845-seat-reservation-manager](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1845-seat-reservation-manager) |
 ## Sorting
 |  |
 | ------- |

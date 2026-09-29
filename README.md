@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 ## Stack
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->

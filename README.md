@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
 ## Hash Table
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect

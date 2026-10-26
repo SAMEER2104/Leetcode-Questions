@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0841-keys-and-rooms) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |

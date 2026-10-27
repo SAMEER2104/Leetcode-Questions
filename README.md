@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

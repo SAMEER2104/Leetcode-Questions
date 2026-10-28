@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

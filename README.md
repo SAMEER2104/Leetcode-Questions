@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

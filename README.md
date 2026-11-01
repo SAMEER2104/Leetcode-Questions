@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Dynamic Programming
 |  |
 | ------- |

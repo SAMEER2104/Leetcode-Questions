@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Recursion
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

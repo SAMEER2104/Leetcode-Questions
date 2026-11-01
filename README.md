@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find

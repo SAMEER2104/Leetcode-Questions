@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0617-merge-two-binary-trees](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
@@ -196,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0841-keys-and-rooms) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0052-n-queens-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

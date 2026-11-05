@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0897-increasing-order-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Data Stream
 |  |
 | ------- |

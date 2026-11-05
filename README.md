@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAMEER2104/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
